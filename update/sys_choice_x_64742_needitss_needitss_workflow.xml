@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="workflow" table="x_64742_needitss_needitss" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>workflow</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Automation Testing</label>
+            <language>en</language>
+            <name>x_64742_needitss_needitss</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-09 10:57:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f76216d4f412300a2219acf9310c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-09 10:57:51</sys_updated_on>
+            <value>Automation Testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>workflow</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IoT</label>
+            <language>en</language>
+            <name>x_64742_needitss_needitss</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-09 10:58:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eca6612d4f412300a2219acf9310c778</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-09 10:58:33</sys_updated_on>
+            <value>IoT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>workflow</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Now Wiki</label>
+            <language>en</language>
+            <name>x_64742_needitss_needitss</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-09 10:55:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9e529e94f412300a2219acf9310c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-09 10:55:01</sys_updated_on>
+            <value>Service Now Wiki</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>workflow</element>
+            <name>x_64742_needitss_needitss</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-09 10:55:01</sys_created_on>
+            <sys_id>55e529e94f412300a2219acf9310c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>workflow</sys_name>
+            <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
+            <sys_update_name>sys_choice_x_64742_needitss_needitss_workflow</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-09 10:55:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

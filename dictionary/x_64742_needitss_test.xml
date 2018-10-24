@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TEST" max_length="40" name="x_64742_needitss_test" type="collection">
+        <element label="Name" max_length="80" name="u_field_name_1" type="string_full_utf8"/>
+        <element label="Joining Date" max_length="40" name="u_glide_date_time_3" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Email Address" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>

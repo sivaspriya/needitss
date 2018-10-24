@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeeditSS" max_length="40" name="x_64742_needitss_needitss" sizeclass="2" type="collection">
+        <element label="Audio" max_length="40" name="audio" type="audio"/>
+        <element display="true" label="Full Name" max_length="40" name="full_name" read_only="true" type="string"/>
+        <element label="Audio" max_length="40" name="u_audio_1" type="audio"/>
+        <element label="Attachment" max_length="40" name="u_file_attachment_6" type="file_attachment"/>
+        <element label="HTML" max_length="65536" name="u_html_2" type="html"/>
+        <element label="IP Address (Validated IPV4, IPV6)" max_length="40" name="u_ip_addr_5" type="ip_addr"/>
+        <element attributes="edge_encryption_enabled=true" label="Journal" max_length="4000" name="u_journal_4" type="journal"/>
+        <element attributes="preview_selector=true,preview_first=true,is_multi_text=true" label="Wiki" max_length="65536" name="u_wiki_text_3" type="wiki_text"/>
+        <element choice="1" default="Service Now Wiki" label="Workflow" max_length="100" name="workflow" type="workflow">
+            <choice>
+                <element inactive_on_update="false" label="Automation Testing" value="Automation Testing"/>
+                <element inactive_on_update="false" label="IoT" value="IoT"/>
+                <element inactive_on_update="false" label="Service Now Wiki" value="Service Now Wiki"/>
+            </choice>
+        </element>
+    </element>
+</database>

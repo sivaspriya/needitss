@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_last_name" label="Last name" language="en" table="x_64742_needitss_user_stagging">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_last_name</element>
+            <help/>
+            <hint/>
+            <label>Last name</label>
+            <language>en</language>
+            <name>x_64742_needitss_user_stagging</name>
+            <plural>Last names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 15:08:14</sys_created_on>
+            <sys_id>1879a3354f052300a2219acf9310c77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Last name</sys_name>
+            <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
+            <sys_update_name>sys_documentation_x_64742_needitss_user_stagging_u_last_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 15:08:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
