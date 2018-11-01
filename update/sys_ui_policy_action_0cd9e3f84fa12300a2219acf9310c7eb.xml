@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>role</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-01 09:08:15</sys_created_on>
+        <sys_id>0cd9e3f84fa12300a2219acf9310c7eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>role</sys_name>
+        <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0cd9e3f84fa12300a2219acf9310c7eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-01 09:08:15</sys_updated_on>
+        <table>x_64742_needitss_test</table>
+        <ui_policy display_value="Show when Project is not ITSM">11a7af784fa12300a2219acf9310c7c3</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

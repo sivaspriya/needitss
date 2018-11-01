@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="project" table="x_64742_needitss_test" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bell</label>
+            <language>en</language>
+            <name>x_64742_needitss_test</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 06:41:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d99b75d64f512300a2219acf9310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 06:41:08</sys_updated_on>
+            <value>Bell</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ITSM</label>
+            <language>en</language>
+            <name>x_64742_needitss_test</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-01 09:40:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f801f7304fe12300a2219acf9310c743</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-01 09:40:31</sys_updated_on>
+            <value>ITSM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TalkTalk</label>
+            <language>en</language>
+            <name>x_64742_needitss_test</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 06:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebbbf5564f512300a2219acf9310c70c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 06:41:49</sys_updated_on>
+            <value>TalkTalk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tiksu</label>
+            <language>en</language>
+            <name>x_64742_needitss_test</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 06:41:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43ab75564f512300a2219acf9310c7bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 06:41:28</sys_updated_on>
+            <value>Tiksu</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <name>x_64742_needitss_test</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-24 06:41:08</sys_created_on>
+            <sys_id>e0abb1964f512300a2219acf9310c75d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>project</sys_name>
+            <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
+            <sys_update_name>sys_choice_x_64742_needitss_test_project</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-24 06:41:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

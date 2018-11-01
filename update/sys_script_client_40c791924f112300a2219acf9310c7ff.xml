@@ -3,39 +3,35 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>Message on Test Form Load</description>
+        <description>Message on Submit</description>
         <field>sys_created_on</field>
         <global>true</global>
         <isolate_script>true</isolate_script>
-        <messages/>
-        <name>LoadMessage</name>
+        <messages>Message on Submit</messages>
+        <name>MessageOnSubmit</name>
         <order/>
-        <script><![CDATA[function onLoad() {
+        <script><![CDATA[function onSubmit() {
    //Type appropriate comment here, and begin script below
- alert("ThankYou for loading the TEST Needit Form. Kindly close this alert"); 
-	alert("g_user.firstName = " + g_user.firstName 
-   	+ ", \n g_user.lastName = " + g_user.lastName 
-	+ ", \n g_user.fullName = " + g_user.fullName
-   	+ ", \n g_user.userName = " + g_user.userName 
-   	+ ", \n g_user.userID = " + g_user.userID);
+   alert("Thank you for submitting a TEST Record.");
+   alert(g_form.getValue('u_field_name_1'));
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-23 08:58:08</sys_created_on>
+        <sys_created_on>2018-10-24 04:07:17</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>6470d9c24f512300a2219acf9310c7c0</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>LoadMessage</sys_name>
+        <sys_id>40c791924f112300a2219acf9310c7ff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MessageOnSubmit</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
-        <sys_update_name>sys_script_client_6470d9c24f512300a2219acf9310c7c0</sys_update_name>
+        <sys_update_name>sys_script_client_40c791924f112300a2219acf9310c7ff</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-24 06:26:10</sys_updated_on>
+        <sys_updated_on>2018-10-24 06:18:39</sys_updated_on>
         <table>x_64742_needitss_test</table>
-        <type>onLoad</type>
+        <type>onSubmit</type>
         <ui_type>0</ui_type>
         <view/>
     </sys_script_client>
