@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="">string_full_utf8</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>80</max_length>
         <name>x_64742_needitss_test</name>
         <next_element/>
@@ -49,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-23 08:45:10</sys_created_on>
         <sys_id>b76ec5824f512300a2219acf9310c777</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Name</sys_name>
         <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
         <sys_update_name>sys_dictionary_x_64742_needitss_test_u_field_name_1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-24 04:02:46</sys_updated_on>
+        <sys_updated_on>2018-11-09 08:59:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

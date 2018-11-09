@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <comment/>
+        <compiled_snapshot display_value="Create Record">2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="EmployeeTasks">10d820a34f6d2300a2219acf9310c7e5</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 12:19:29</sys_created_on>
+        <sys_id>8d8221af4fed2300a2219acf9310c72b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
+        <sys_update_name>sys_hub_action_instance_8d8221af4fed2300a2219acf9310c72b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 12:19:30</sys_updated_on>
+        <ui_id>e34f1970-8c45-4da2-a4b3-ffdbd87d7b94</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=8d8221af4fed2300a2219acf9310c72b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>8d8221af4fed2300a2219acf9310c72b</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 12:19:29</sys_created_on>
+        <sys_id>018221af4fed2300a2219acf9310c731</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 12:19:29</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=8d8221af4fed2300a2219acf9310c72b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>8d8221af4fed2300a2219acf9310c72b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 12:19:29</sys_created_on>
+        <sys_id>c98221af4fed2300a2219acf9310c730</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 12:19:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>8d8221af4fed2300a2219acf9310c72b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 12:19:29</sys_created_on>
+        <sys_id>8d8221af4fed2300a2219acf9310c730</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 12:19:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>name={{Created_1.current.u_field_name_1}}^employee_number={{Created_1.current.number}}^manager={{Created_1.current.manager}}^user_name={{Created_1.current.u_field_name_1}}^email={{Created_1.current.u_string_2}}</value>
+    </sys_element_mapping>
+</record_update>

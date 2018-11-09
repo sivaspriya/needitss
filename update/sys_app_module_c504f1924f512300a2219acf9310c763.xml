@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedTest">c3837d524f512300a2219acf9310c7d3</application>
+        <application display_value="Employee">6b7d4d424f512300a2219acf9310c773</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -25,19 +25,19 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c504f1924f512300a2219acf9310c763</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>TestOpen</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>All Employees</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
         <sys_update_name>sys_app_module_c504f1924f512300a2219acf9310c763</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-24 06:12:24</sys_updated_on>
+        <sys_updated_on>2018-11-09 11:47:04</sys_updated_on>
         <timeline_page/>
-        <title>TestOpen</title>
+        <title>All Employees</title>
         <uncancelable>false</uncancelable>
         <view_name/>
-        <window_name>Need Test Search</window_name>
+        <window_name>All Employees</window_name>
     </sys_app_module>
 </record_update>

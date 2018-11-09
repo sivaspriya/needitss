@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="Create Record">2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="EmployeeTasks">c443345a4fe12300a2219acf9310c7ac</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 09:28:23</sys_created_on>
+        <sys_id>ea5b38af4f6d2300a2219acf9310c733</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
+        <sys_update_name>sys_hub_action_instance_ea5b38af4f6d2300a2219acf9310c733</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 12:19:32</sys_updated_on>
+        <ui_id>5a8d9aed-bc2c-4efd-82a3-694096cf3508</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=ea5b38af4f6d2300a2219acf9310c733"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ea5b38af4f6d2300a2219acf9310c733</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 09:28:23</sys_created_on>
+        <sys_id>e65b38af4f6d2300a2219acf9310c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 09:28:23</sys_updated_on>
+        <value>x_64742_needitss_needitss_task</value>
+        <variable display_value="">0352fc8cc3c632002841b63b12d3ae12</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ea5b38af4f6d2300a2219acf9310c733</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 09:34:11</sys_created_on>
+        <sys_id>e7acbcef4f6d2300a2219acf9310c790</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 09:34:11</sys_updated_on>
+        <value>x_64742_needitss_needitss_task</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ea5b38af4f6d2300a2219acf9310c733"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>ea5b38af4f6d2300a2219acf9310c733</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 09:28:23</sys_created_on>
+        <sys_id>ae5b38af4f6d2300a2219acf9310c738</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 09:28:23</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>ea5b38af4f6d2300a2219acf9310c733</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 09:34:11</sys_created_on>
+        <sys_id>afacbcef4f6d2300a2219acf9310c78f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 09:34:11</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>ea5b38af4f6d2300a2219acf9310c733</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 09:28:23</sys_created_on>
+        <sys_id>665b38af4f6d2300a2219acf9310c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 09:28:23</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value>short_description=Assign Cubicle^assignment_group={"display":"Capacity Mgmt","value":"aaccc971c0a8001500fe1ff4302de101"}^assigned_to={{5557874a-1edf-4bc9-8672-c72ab69f35b7.record.assigned_to}}^parent={{Created_1.current.number}}^description=Provide required cubicle for the employee^=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>ea5b38af4f6d2300a2219acf9310c733</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-09 09:34:11</sys_created_on>
+        <sys_id>67acbcef4f6d2300a2219acf9310c790</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-09 09:41:39</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>short_description=Assign Cubicle^assignment_group={"display":"Capacity Mgmt","value":"aaccc971c0a8001500fe1ff4302de101"}^assigned_to={{5557874a-1edf-4bc9-8672-c72ab69f35b7.record.assigned_to}}^correlation_id={{Created_1.current.number}}^description=Provide required cubicle for the employee^=</value>
+    </sys_element_mapping>
+</record_update>

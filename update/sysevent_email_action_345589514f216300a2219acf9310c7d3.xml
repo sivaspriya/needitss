@@ -6,8 +6,8 @@
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
-        <collection>x_64742_needitss_needitss</collection>
-        <condition table="x_64742_needitss_needitss">business_serviceANYTHING^EQ<item endquery="false" field="business_service" goto="false" newquery="false" operator="ANYTHING" or="false" value=""/>
+        <collection>x_64742_needitss_test</collection>
+        <condition table="x_64742_needitss_test">u_field_name_1STARTSWITHS%^EQ<item endquery="false" field="u_field_name_1" goto="false" newquery="false" operator="STARTSWITH" or="false" value="S%"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>text/html</content_type>
@@ -37,40 +37,42 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Check out bound email from Service NOW</p>
+        <message_html><![CDATA[<p>Hi ${manager},</p>
 <p>&nbsp;</p>
-<p>Regards,</p>
-<p>Service Now Team</p>]]></message_html>
+<p>A New Employee : ${u_field_name_1} created under the project&nbsp;Project: ${project} and Joining Date: ${u_glide_date_time_3}</p>
+<p>&nbsp;</p>
+<p>Thanks,</p>
+<p>Need It Project Team</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>Test Email</name>
+        <name>Email Check</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields/>
+        <recipient_fields>manager</recipient_fields>
         <recipient_groups/>
-        <recipient_users>sivapriya.sivaprakasam@cgi.com</recipient_users>
+        <recipient_users/>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>TESTING EMAIL</subject>
+        <subject>New Employee Created under you</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-12 09:11:37</sys_created_on>
+        <sys_created_on>2018-11-02 10:31:16</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>78d6ac2a4f012300a2219acf9310c70d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Test Email</sys_name>
+        <sys_id>345589514f216300a2219acf9310c7d3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Email Check</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
         <sys_policy/>
         <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
-        <sys_update_name>sysevent_email_action_78d6ac2a4f012300a2219acf9310c70d</sys_update_name>
+        <sys_update_name>sysevent_email_action_345589514f216300a2219acf9310c7d3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-12 09:14:43</sys_updated_on>
+        <sys_updated_on>2018-11-05 08:43:44</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

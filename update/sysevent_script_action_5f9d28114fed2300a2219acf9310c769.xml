@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition_script/>
+        <description/>
+        <event_name>x_64742_needitss.dueSoonNeedItTasks</event_name>
+        <name>Update due soon needitss task priority</name>
+        <order>100</order>
+        <script><![CDATA[current.priorty = 2;
+current.update();]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-02 08:50:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f9d28114fed2300a2219acf9310c769</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update due soon needitss task priority</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needitss" source="x_64742_needitss">a8ef61674f302300a2219acf9310c763</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needitss">a8ef61674f302300a2219acf9310c763</sys_scope>
+        <sys_update_name>sysevent_script_action_5f9d28114fed2300a2219acf9310c769</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-02 08:50:19</sys_updated_on>
+    </sysevent_script_action>
+</record_update>

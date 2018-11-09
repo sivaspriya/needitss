@@ -1,100 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Employee Details" section_id="d3cd0d424f512300a2219acf9310c79e" sys_domain="global" table="x_64742_needitss_test" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_field_name_1</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>1e6d719a4f512300a2219acf9310c758</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>5f28782f4f6d2300a2219acf9310c757</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_field_name_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>df28782f4f6d2300a2219acf9310c757</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_2</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>9e6d719a4f512300a2219acf9310c758</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>5328782f4f6d2300a2219acf9310c758</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>manager</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>126d719a4f512300a2219acf9310c759</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>d328782f4f6d2300a2219acf9310c758</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>926d719a4f512300a2219acf9310c759</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>5728782f4f6d2300a2219acf9310c758</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>166d719a4f512300a2219acf9310c759</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>d728782f4f6d2300a2219acf9310c758</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_date_time_3</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>966d719a4f512300a2219acf9310c759</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>5b28782f4f6d2300a2219acf9310c758</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>project</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>1a6d719a4f512300a2219acf9310c759</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>db28782f4f6d2300a2219acf9310c758</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>5f28782f4f6d2300a2219acf9310c758</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee Details" display_value="Employee Details" name="x_64742_needitss_test" sys_domain="global" view="Default view">d3cd0d424f512300a2219acf9310c79e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

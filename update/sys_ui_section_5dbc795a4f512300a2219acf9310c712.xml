@@ -4,13 +4,13 @@
             <element>role</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>5a6d719a4f512300a2219acf9310c760</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>df28782f4f6d2300a2219acf9310c760</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Assignment" display_value="Employee Assignment" name="x_64742_needitss_test" sys_domain="global" view="Default view">5dbc795a4f512300a2219acf9310c712</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>project_start_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>da6d719a4f512300a2219acf9310c760</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>5328782f4f6d2300a2219acf9310c761</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Assignment" display_value="Employee Assignment" name="x_64742_needitss_test" sys_domain="global" view="Default view">5dbc795a4f512300a2219acf9310c712</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>project_end_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-24 06:48:53</sys_created_on>
-            <sys_id>5e6d719a4f512300a2219acf9310c760</sys_id>
+            <sys_created_on>2018-11-09 09:14:30</sys_created_on>
+            <sys_id>d328782f4f6d2300a2219acf9310c761</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Employee Assignment" display_value="Employee Assignment" name="x_64742_needitss_test" sys_domain="global" view="Default view">5dbc795a4f512300a2219acf9310c712</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-24 06:48:53</sys_updated_on>
+            <sys_updated_on>2018-11-09 09:14:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
